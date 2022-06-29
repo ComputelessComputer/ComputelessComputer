@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning agile workflow.
-- 💬 Ask me about Flutter, Firebase and Node.
+- 🌱 I’m currently learning Swift and PS.
+- 💬 Ask me about Flutter and Firebase.
 - 📫 How to reach me: botsforme@snu.ac.kr
 - 😄 Pronouns: Unique, Passionate, Workaholic, Energetic
-- ⚡ Fun fact: I recently stopped smoking!
+- ⚡ Fun fact: I am a multi-player!
 
