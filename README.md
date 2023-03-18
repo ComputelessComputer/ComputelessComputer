@@ -1,8 +1,16 @@
-### Hi there 👋
+### The future
 
-- 🌱 I’m currently learning Swift and PS.
-- 💬 Ask me about Flutter and Firebase.
-- 📫 How to reach me: botsforme@snu.ac.kr
-- 😄 Pronouns: Unique, Passionate, Workaholic, Energetic
-- ⚡ Fun fact: I am a multi-player!
+Hi, my name is John. 
+Welcome to my GitHub profile. 
 
+I am a founder. 
+I have always been trying to be creative, 
+and hope to keep it that way for the rest of my life.
+
+I love meeting new people.
+I am not a great programmer,
+but I am a visionary with grit.
+
+I wish to collaborate with many talented & gifted people.
+Please feel free to contact me via email; jeeheontransformers@gmail.com
+Thank you.
