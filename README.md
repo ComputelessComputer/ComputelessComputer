@@ -13,4 +13,5 @@ but I am a visionary with grit.
 
 I wish to collaborate with many talented & gifted people.
 Please feel free to contact me via email; jeeheontransformers@gmail.com
+
 Thank you.
